@@ -1,3 +1,3 @@
 # About me 👋
 
-- 🤔 I’m currently learning **C** (Programming Language)
+- 🤔 I’m currently learning **C** (Programming Language), HTML
